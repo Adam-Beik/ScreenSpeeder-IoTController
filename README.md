@@ -34,6 +34,7 @@ Software
 Connecting Device
 ----
 * Upon powering on the device (see **"Usage->Left-right buttons"**), enable BlueTooth on target device and pair with **ScreenSpeeder V** (or whatever you have named it in the `main` file).
+* Ensure device is flat when powered ON for accelerometer calibration.
 * Ensure NVDA and a browser application is running on the target device.
   * Controller can be used in **Default** mode to tab to and select apps on the homescreen via navigation dial and the rotary encoder's selector button (see **"Usage"**)
 * Ensure WiFi is configured in the `main` file to access the web dashboard (must have Node.JS and Node-RED installed to host dashboard using command `node-red`).
