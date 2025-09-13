@@ -5,8 +5,8 @@
 * Uses BlueTooth to connect to target device and WiFi (optional) to exchange MQTT requests for a Node.JS (Node-RED) web dashboard.
 * Sends browser and NVDA commands via BlueTooth HID input; NVDA used as screen-reading technology to read web content to user. 
 * Firmware uses object-oriented C++ codebase; MQTT messaging uses JSON.
-* See **platformio.ini** for a list of all open-source libraries incorporated into this project.
-* **Note: This project is subject to change.**
+* See **platformio.ini** for a list of all open-source libraries used for this project.
+* **Note: This project is subject to change. Libraries not included but are listed in the .ini file.**
 
 Electronics
 ------
