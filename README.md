@@ -34,6 +34,7 @@ Software
 * PlatformIO extension via Visual Studio Code for project development and debugging
 * Node.JS via Node-RED for web dashboard and MQTT signalling
 * C++ for firmware code; includes libraries (see **platformio.ini** for the full list)
+* Autodesk Fusion 360 for modelling, schematics, and PCB design
 
 Connecting Device
 ----
