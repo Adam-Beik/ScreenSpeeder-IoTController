@@ -1,4 +1,6 @@
 # ScreenSpeeder IoT Controller
+![animation of project deconstruction](https://github.com/Adam-Beik/ScreenSpeeder-IoTController/blob/main/deconstruct_compressed.gif)
+![animation of project's navigation dial internals](https://github.com/Adam-Beik/ScreenSpeeder-IoTController/blob/main/gears_compressed.gif)
 * Project repository for the ScreenSpeeder, a wireless navigation controller for the visually impaired.
 * [Link to first demonstration video (updated video releasing October 2025)](https://www.youtube.com/watch?v=nY-d67pn6yI)
 * [Link to technical report documentation](https://1drv.ms/w/c/bf5aecddce199c5e/EYxzLiALXJlNptYhbYVuunkBDRpJXIS_0LUYTRMiL-INpQ?e=VsDVbx)
