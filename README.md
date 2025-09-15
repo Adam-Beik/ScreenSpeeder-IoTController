@@ -41,7 +41,7 @@ Connecting Device
   * Controller can be used in **Default** mode to tab to and select apps on the homescreen via navigation dial and the rotary encoder's selector button (see **"Usage"**)
 * Ensure WiFi is configured in the `main` file to access the web dashboard (must have Node.JS and Node-RED installed to host dashboard using command `node-red`).
 
-Usage
+Usage (See technical documentation for more information)
 ----
 * **Navigation dial** tabs through web content depending on mode. Clockwise is **forward** and counter-clockwise is **backward**.
   
