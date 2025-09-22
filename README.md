@@ -61,6 +61,7 @@ Usage (See technical documentation for more information)
       
 * **Left-right buttons** send arrow-key signals to move through elements forward or backward depending on mode.
   * Sends up and down arrow-key signals in all modes except **Form** mode, in which case it sends left and right arrow signals to move the text cursor
+  * **Note:** The left-right buttons cycle between open tabs while in **Link** mode.
   * Should be conceptualized as "forward to next immediate element or line" and "backward to last immediate element or line"
   * While the device is in **deep-sleep (OFF)**, pressing the **left button** will **power the device ON**
     
@@ -68,7 +69,7 @@ Usage (See technical documentation for more information)
   *  Tilting the device >30° to the **right** (rotating shoulder so forearm moves upward from neutral) issues a **browser forward** command
   *  Tilting the device >30° to the **left** (rotating shoulder so forearm moves downward from neutral) issues a **browser backward** command
   *  Tilting the device >70° **toward** the user in an **upward roll** (as if checking one's watch) issues a **browser refresh** command
-    * In **Header** mode, tilting the device >70° in a **downward roll** (as if showing one's watch to someone) issues a **browser refresh** command
+    * In **Header** mode, tilting the device >70° in a **downward roll** (as if showing one's watch to someone) issues a **new tab** command
     * In **Form** mode, the aforementioned **downward roll** will **clear the focused text field** in case an input was entered incorrectly
 
 
