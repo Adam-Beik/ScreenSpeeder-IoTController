@@ -2,7 +2,7 @@
 ![animation of project deconstruction](https://github.com/Adam-Beik/ScreenSpeeder-IoTController/blob/main/deconstruct_compressed.gif)
 ![animation of project's navigation dial internals](https://github.com/Adam-Beik/ScreenSpeeder-IoTController/blob/main/gears_compressed.gif)
 * Project repository for the ScreenSpeeder, a wireless navigation controller for the visually impaired.
-* [Link to first demonstration video (updated video releasing October 2025)](https://www.youtube.com/watch?v=nY-d67pn6yI).
+* [Link to first demonstration video](https://www.youtube.com/watch?v=nY-d67pn6yI).
 * [Link to technical report documentation](https://1drv.ms/w/c/bf5aecddce199c5e/EYxzLiALXJlNptYhbYVuunkBDRpJXIS_0LUYTRMiL-INpQ?e=VsDVbx).
 * 3D-printed wireless navigation controller with a custom PCB that allows the visually impaired to navigate web content and enter text data using a combination of physical controls, gestures, and voice-to-text input. **Note:** Voice-to-text signal currently configured for Windows devices ('Super'+'H' signal) but configurable for any device with keyboard-signalled voice-to-text functionality.
 * Comfortably worn on the wrist using adjustable straps.
